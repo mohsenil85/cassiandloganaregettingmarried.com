@@ -6,4 +6,4 @@ Handcrafted HTML and CSS. No frameworks, no build steps, no JavaScript* — just
 
 Built on [Skeleton](http://getskeleton.com/) for a lightweight responsive grid and [Raleway](https://fonts.google.com/specimen/Raleway) for type.
 
-\* _The RSVP page has a small inline script for form toggling. We're not monsters, just minimalists._
+\* _The RSVP page had a small inline script for form toggling. We weren't monsters, just minimalists._
